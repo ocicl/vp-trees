@@ -2,9 +2,8 @@
 
 Vantage point trees for Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/shamazmazum/vp-trees.git   |
-| commit  | 218a8a7  |
-| systems | vp-trees |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/shamazmazum/vp-trees.git |
+| commit  | 35221ce                                         |
+| systems | vp-trees                                        |
+|---------+-------------------------------------------------|
